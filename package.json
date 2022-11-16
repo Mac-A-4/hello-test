@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "sayhello": "./index.js"
+    "sayhello": "node ./index.js"
   },
   "scripts": {},
   "keywords": [],
